@@ -24,7 +24,7 @@
 ### 🌐 Connect with Me  
 <p align="center">
 <a href="https://linkedin.com/in/harish-rajak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/i_am_harish_rajak_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/confident_harish" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/rajakharish027" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 <a href="https://leetcode.com/harish_rajak_" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
